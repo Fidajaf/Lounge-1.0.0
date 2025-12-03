@@ -1,28 +1,9 @@
-# Lounge - Free Responsive HTML Restaurant Website Template
+# Café Lounge – Responsive Coffee & Pastry Website
 
-#### Preview
+This is a client-style website built for Café Lounge, showcasing coffee, pastries, and bakery products.
 
- - [Demo](https://themewagon.github.io/Lounge/)
+**Tech Used:** HTML, CSS, JS
 
-#### Download
- - [Download from ThemeWagon]( https://themewagon.com/themes/lounge)
- 
- 
-## Getting Started
+**Live Demo:** [GitHub Pages Link](https://yourusername.github.io/cafelounge-website/)
 
-1. Clone from Github 
-```
-git clone https://github.com/themewagon/Lounge.git
-```
-
-## Author
-
-Design and code is completely written by StyleShout design and development team.  
-
-
-## License
-
- - Design and Code is Copyright &copy; [StyleShout](https://styleshout.com/)
- - Licensed cover under [MIT]
- - Distributed by [ThemeWagon](https://themewagon.com)
 
